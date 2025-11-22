@@ -78,7 +78,7 @@ Seja bem-vindo ao meu GitHub — aqui registro minha caminhada, um projeto prát
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=charles-costa-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600"
+    src="https://github-readme-stats.vercel.app/api?username=charles-costa-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
 <img 
