@@ -66,6 +66,14 @@ Seja bem-vindo ao meu GitHub — aqui registro minha caminhada, um projeto prát
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="Arduino"
+    title="Arduino"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
+/>
 
 <br/>
 <br/>
